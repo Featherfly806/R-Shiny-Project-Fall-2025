@@ -1,7 +1,7 @@
 ## Author: Youman/Lucy Mo
 ## tobihane@bu.edu
 ## BU CDSBF 591
-## Final Project
+## Final Project -  FALL 2024
 
 library(shiny)
 library(ggplot2)

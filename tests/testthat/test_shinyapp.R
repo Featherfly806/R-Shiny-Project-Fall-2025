@@ -4,7 +4,7 @@ library(shinytest)
 
 source("../../app.R")
 
-# SAMPLE INFO TAB TESTS
+# SAMPLE INFO TAB TEST
 
 test_that("Sample Info: File upload loads data", {
   testServer(server, {
