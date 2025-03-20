@@ -1,0 +1,6 @@
+"SampleID","Age","Condition","Tissue"
+"S1",10,"Control","Cotyledon"
+"S2",12,"Control","Cotyledon"
+"S3",15,"Treated","Cotyledon"
+"S4",18,"Treated","Leaf"
+"S5",20,"Control","Leaf"
